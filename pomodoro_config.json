@@ -1,0 +1,7 @@
+{
+  "work_time": 1500,
+  "break_time": 300,
+  "long_break_time": 900,
+  "pomodoros_before_long_break": 4,
+  "sound_enabled": true
+}
